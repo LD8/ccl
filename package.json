@@ -1,9 +1,9 @@
 {
-  "name": "tsti",
+  "name": "ccl",
   "version": "1.0.0",
   "main": "lib/index.js",
   "bin": {
-    "tsti": "bin/cli.js"
+    "ccl": "bin/cli.js"
   },
   "license": "MIT",
   "directories": {
